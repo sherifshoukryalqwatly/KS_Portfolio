@@ -23,7 +23,7 @@ nav {
     transition: 0.3s;
 }
 nav li:hover a {
-    color: red !important;
+    color: #268BF7 !important;
 }
 .navbar .btn {
     font-weight: 500;
