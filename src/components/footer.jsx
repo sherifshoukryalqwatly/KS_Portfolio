@@ -12,7 +12,7 @@ function Footer() {
                     <a href="https://www.linkedin.com/in/sherif-shukrii-08085022a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank" rel="noreferrer" className="text-primary text-decoration-none me-3">
                         <i className="bi bi-linkedin me-1"></i>LinkedIn
                     </a>
-                    <a href="tel:+96550530073" className="text-primary text-decoration-none">
+                    <a href="tel:+201110317344" className="text-primary text-decoration-none">
                         <i className="bi bi-telephone-fill me-1"></i>+20 1110317344
                     </a>
                 </p>
