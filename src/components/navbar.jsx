@@ -40,8 +40,8 @@ function Navbar() {
                         </a>
                         </li>
                         <li className="nav-item">
-                        <a className="nav-link nav-link-custom text-light fs-5" href="#projects">
-                            Projects
+                        <a className="nav-link nav-link-custom text-light fs-5" href="#experience">
+                            Experience
                         </a>
                         </li>
                         <li className="nav-item">
