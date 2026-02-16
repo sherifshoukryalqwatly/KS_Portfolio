@@ -47,7 +47,6 @@ function Experience() {
                             <div className="card shadow-sm border-0 p-4 scroll-animate h-100">
                                 <h5 className="fw-bold text-primary mb-2">{exp.role}</h5>
                                 <p className="text-secondary mb-1">{exp.company}</p>
-                                <p className="text-secondary mb-2">{exp.location}</p>
                                 <small className="text-muted">{exp.period}</small>
                             </div>
                         </div>

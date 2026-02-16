@@ -4,13 +4,13 @@ function Navbar() {
             <nav className="navbar navbar-expand-lg navbar-light px-4 py-2 fixed-top shadow-sm">
                 <div className="container-fluid">
                     {/* Brand */}
-                    <a className="navbar-brand text-primary fw-bold fs-1" href="#home">
-                    K
+                    <a className="navbar-brand text-primary fs-2" href="#home">
+                        <i class="bi bi-bank2"></i>
                     </a>
 
                     {/* Toggler Button (hamburger) */}
                     <button
-                        className="navbar-toggler"
+                        className="navbar-toggler border border-primary"
                         type="button"
                         data-bs-toggle="collapse"
                         data-bs-target="#navbarNav"
@@ -18,7 +18,7 @@ function Navbar() {
                         aria-expanded="false"
                         aria-label="Toggle navigation"
                     >
-                    <span className="navbar-toggler-icon"></span>
+                        <span className="navbar-toggler-icon"></span>
                     </button>
 
                     {/* Navbar Links */}

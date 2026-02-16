@@ -66,21 +66,21 @@ function Contact() {
                     <div className="d-md-flex justify-content-center gap-4">
                         <a
                             href="mailto:kha02gh@hotmail.com"
-                            className="text-primary fs-5 text-decoration-none"
+                            className="text-primary fs-5 text-decoration-none d-block"
                         >
                             <i className="bi bi-envelope"></i> Email
                         </a>
                         <a
-                            href="https://www.linkedin.com"
+                            href="https://www.linkedin.com/in/khaled-samir-omar-19aa5887?utm_source=share_via&utm_content=profile&utm_medium=member_ios"
                             target="_blank"
                             rel="noreferrer"
-                            className="text-primary fs-5 text-decoration-none"
+                            className="text-primary fs-5 text-decoration-none d-block"
                         >
                             <i className="bi bi-linkedin"></i> LinkedIn
                         </a>
                         <a
                             href="tel:+96550530073"
-                            className="text-primary fs-5 text-decoration-none"
+                            className="text-primary fs-5 text-decoration-none d-block"
                         >
                             <i className="bi bi-telephone-fill"></i> +965 5053 0073
                         </a>
