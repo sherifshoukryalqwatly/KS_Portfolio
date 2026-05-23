@@ -9,7 +9,7 @@ function Footer() {
                     <a href="mailto:shoukrysherif5@gmail.com" className="text-primary text-decoration-none me-3">
                         <i className="bi bi-envelope-fill me-1"></i>Email
                     </a>
-                    <a href="https://www.linkedin.com/in/sherif-shukrii-08085022a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank" rel="noreferrer" className="text-primary text-decoration-none me-3">
+                    <a href="www.linkedin.com/in/sherif-shukri-84176a1ba" target="_blank" rel="noreferrer" className="text-primary text-decoration-none me-3">
                         <i className="bi bi-linkedin me-1"></i>LinkedIn
                     </a>
                     <a 
