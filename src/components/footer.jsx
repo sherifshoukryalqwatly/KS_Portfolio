@@ -9,7 +9,7 @@ function Footer() {
                     <a href="mailto:shoukrysherif5@gmail.com" className="text-primary text-decoration-none me-3">
                         <i className="bi bi-envelope-fill me-1"></i>Email
                     </a>
-                    <a href="www.linkedin.com/in/sherif-shukri-84176a1ba" target="_blank" rel="noreferrer" className="text-primary text-decoration-none me-3">
+                    <a href="https://www.linkedin.com/in/sherif-shukri-84176a1ba" target="_blank" rel="noreferrer" className="text-primary text-decoration-none me-3">
                         <i className="bi bi-linkedin me-1"></i>LinkedIn
                     </a>
                     <a 
