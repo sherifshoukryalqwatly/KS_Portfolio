@@ -7,7 +7,7 @@ function Hero() {
                 id='home'>
                 <h1 className="display-3 fw-bold text-white fade-in">Welcome, I'm <span className="text-primary">Khaled Samir</span></h1>
                 <h3 className="text-light fade-in" style={{ animationDelay: "0.5s" }}>
-                    Financial <span className="text-primary fw-bold">Accountant</span>
+                    Financial <span className="text-primary fw-bold">Manager</span>
                 </h3>
                 <p className="lead text-light fade-in" style={{ animationDelay: "1s" }}>
                     Experienced Accountant with a strong background in full-cycle accounting

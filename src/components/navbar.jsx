@@ -52,7 +52,7 @@ function Navbar() {
                         <li className="nav-item">
                         <a
                             className="btn btn-primary ms-lg-3 mt-2 mt-lg-0 fs-5"
-                            href="https://drive.google.com/file/d/1BEq8a6Bn3WwZydQCObdQEXbN76DasxNP/view?usp=drive_link"
+                            href="https://drive.google.com/file/d/1CNsCNhr3t3GueOSqzMcaKDmNYYX8LzEh/view?usp=drive_link"
                             target="_blank"
                         >
                             Resume

@@ -41,7 +41,7 @@ function About() {
 
                         <div className="mt-4 d-flex flex-wrap gap-3">
                             <a 
-                                href="https://drive.google.com/file/d/1BEq8a6Bn3WwZydQCObdQEXbN76DasxNP/view?usp=drive_link" 
+                                href="https://drive.google.com/file/d/1CNsCNhr3t3GueOSqzMcaKDmNYYX8LzEh/view?usp=drive_link" 
                                 className="btn btn-outline-primary btn-lg"
                                 target="_blank"
                             >

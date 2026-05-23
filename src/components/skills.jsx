@@ -31,8 +31,7 @@ function Skills() {
                 "Oracle system",
                 "Oracle E-Business Suite R12: GL, AP, AR, Fixed Assets, Cost Management, Inventory, Project, Cash Management modules",
                 "Professional in MS Office",
-                "Daily Internet user",
-                "Typing proficiency in English & Arabic"
+                "Excellent in English "
             ],
             icon: "bi bi-laptop",
         },
